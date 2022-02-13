@@ -26,12 +26,10 @@
    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-#include <SPI.h>
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPUpdateServer.h>
-#include <WiFiUDP.h>
 #include <ArduinoJson.h>
 #include <EEPROM_Rotate.h>
 
